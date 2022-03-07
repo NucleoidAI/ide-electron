@@ -1,0 +1,11 @@
+{
+  "name": "Nucleoid IDE",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "electron ."
+  },
+  "description": "Hello World!",
+  "main": "main.js",
+  "author": "Jane Doe",
+  "license": "MIT"
+}
